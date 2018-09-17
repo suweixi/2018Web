@@ -1,0 +1,38 @@
+h2.big
+{
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color:rgb(237, 127, 100);
+}
+
+
+
+h2.small
+{
+        
+        font-family:'Segon UI', Tahoma, Geneva,Verdana, sans-serif sans-serif;
+        font-size: 20px;
+}
+    p
+    {
+
+        font-size: 10px;
+        color:rgb(105, 120, 255);
+        text-decoration: underline;
+        text-indent: 50px;
+
+    }
+    img
+    {
+        width: 30%;
+        display: block;
+        margin: 0 auto;
+    }
+
+#footer 
+{
+    text-align: left;
+    color: lightgray;
+    font-size: 20px;
+}
